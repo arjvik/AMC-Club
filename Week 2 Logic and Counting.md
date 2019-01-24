@@ -41,8 +41,7 @@ $$
 
 
 3. Ms. Carroll promised that anyone who got all the multiple choice questions right on the upcoming exam would receive an A on the exam. Which one of these statements necessarily follows logically? *(Credit: 2017 AMC 10A #6)*
-
-$$\qquad\textbf{(A)}\ \text{If Lewis did not receive an A, then he got all of the multiple choice questions wrong.}\\\qquad\textbf{(B)}\ \text{If Lewis did not receive an A, then he got at least one of the multiple choice questions wrong.}\\\qquad\textbf{(C)}\ \text{If Lewis got at least one of the multiple choice questions wrong, then he did not receive an A.}\\\qquad\textbf{(D)}\ \text{If Lewis received an A, then he got all of the multiple choice questions right.}\\\qquad\textbf{(E)}\ \text{If Lewis received an A, then he got at least one of the multiple choice questions right.}​$$
+   $$\qquad\textbf{(A)}\ \text{If Lewis did not receive an A, then he got all of the multiple choice questions wrong.}\\\qquad\textbf{(B)}\ \text{If Lewis did not receive an A, then he got at least one of the multiple choice questions wrong.}\\\qquad\textbf{(C)}\ \text{If Lewis got at least one of the multiple choice questions wrong, then he did not receive an A.}\\\qquad\textbf{(D)}\ \text{If Lewis received an A, then he got all of the multiple choice questions right.}\\\qquad\textbf{(E)}\ \text{If Lewis received an A, then he got at least one of the multiple choice questions right.}​$$
 
 
 
@@ -58,5 +57,33 @@ $$\qquad\textbf{(A)}\ \text{If Lewis did not receive an A, then he got all of th
 
 
 5. The numbers from $1$ to $16$ can be entered into a $4\times4$ grid so that the sum of the numbers in each of the four rows, four columns, and two diagonals are ten consecutive numbers in some order. The diagram shows a partially completed $4\times4$ grid. When completed, what number will go in the position marked by the $\star$ ?
+   $$
+   \textbf{(A)} \quad 1 \qquad
+   \textbf{(B)} \quad 2 \qquad
+   \textbf{(C)} \quad 8 \qquad
+   \textbf{(D)} \quad 15 \qquad
+   \textbf{(E)} \quad 16
+   $$
 
+
+![Magic Square](/home/ubuntu/AMC-Club/img/Week 2 Magic Square.png)
+
+### Solutions
+
+1. First of all, notice that all the names start with the letters A, B, C, D, and E. AMC always does this, to make it easier on you. Now we consider two cases, either A is lying or she is not.
+   1. If A is lying, then B is telling the truth, then C is lying, then D is telling the truth.
+   2. If A is telling the truth, then B is lying, then C is telling the truth, then D is lying.
+
+   Either way, E knows that exactly two people other then her are lying, so she is telling the truth. Thus, exactly $\boxed 2$ people are lying.
+
+2. Drawing a diagram, we see that $\boxed6​$ intersection points is possible.
+   ![circtri](/home/ubuntu/AMC-Club/img/Week 2 Circle and Triangle.png)
+
+3. Let $p​$ be getting all the multiple choice questions correct, and $q​$ be getting an A on the test. The teacher said that $p \implies q​$. We know that the contrapositive of this statement is true as well, so $\lnot q \implies \lnot p​$. Thus, if he did not get an A on the test, he did not get all of the multiple choice questions correct (he got at least one wrong). As such, the answer is $\boxed B​$.
+
+4. After some trial and error, we see that if the answer is $\boxed{ \textbf {(C)}\ \text{thirty-three}}$, there are exactly 33 letters in the other answer choices.
+
+6. Computing the sum of rows, columns, and diagonals that we already know, we get that the last row sums to $31​$, the last column sums to $30​$, and the diagonal sums to $39​$. This means that the consecutive sums are $30\cdots39​$. After some trial and error, we see that the following grid works, meaning the answer is $\boxed{\textbf{(D)}\ 15}​$
+
+![magic square ans](/home/ubuntu/AMC-Club/img/Week 2 Magic Square Answer.png)
 
