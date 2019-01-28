@@ -1,6 +1,6 @@
 # Week 2: Logic and Counting
 
-![img](https://lh4.googleusercontent.com/NKSdyot1OfRDManfWcSGuklNH2HfOYmQJKCBvRkNyRDJXeWhqCivCIFPxXoGR8NmmENG2-jiHMNuo1Oc_nOLUPuZw_w21bkj3g1fc5FTs-rVvXFfFHemEZdV-k_tf_T1deDsELyb)
+![Comic](https://lh4.googleusercontent.com/NKSdyot1OfRDManfWcSGuklNH2HfOYmQJKCBvRkNyRDJXeWhqCivCIFPxXoGR8NmmENG2-jiHMNuo1Oc_nOLUPuZw_w21bkj3g1fc5FTs-rVvXFfFHemEZdV-k_tf_T1deDsELyb)
 
 
 
@@ -58,15 +58,21 @@ $$
 
 5. The numbers from $1$ to $16$ can be entered into a $4\times4$ grid so that the sum of the numbers in each of the four rows, four columns, and two diagonals are ten consecutive numbers in some order. The diagram shows a partially completed $4\times4$ grid. When completed, what number will go in the position marked by the $\star$ ?
    $$
+   \begin{bmatrix}
+   &&*&14\\
+   &9&3&7\\
+   &12&13&5\\
+   10&11&6&4
+   \end{bmatrix}
+   $$
+   
+   $$
    \textbf{(A)} \quad 1 \qquad
    \textbf{(B)} \quad 2 \qquad
    \textbf{(C)} \quad 8 \qquad
    \textbf{(D)} \quad 15 \qquad
    \textbf{(E)} \quad 16
    $$
-
-
-![Magic Square](/home/ubuntu/AMC-Club/img/Week 2 Magic Square.png)
 
 ### Solutions
 
@@ -76,14 +82,20 @@ $$
 
    Either way, E knows that exactly two people other then her are lying, so she is telling the truth. Thus, exactly $\boxed 2$ people are lying.
 
-2. Drawing a diagram, we see that $\boxed6​$ intersection points is possible.
-   ![circtri](/home/ubuntu/AMC-Club/img/Week 2 Circle and Triangle.png)
-
+2. Drawing a diagram, we see that $\boxed6$ intersection points is possible.
+   ![Circle and Triangle](https://i.ibb.co/s9MXKPb/circtri.png)
+   
 3. Let $p​$ be getting all the multiple choice questions correct, and $q​$ be getting an A on the test. The teacher said that $p \implies q​$. We know that the contrapositive of this statement is true as well, so $\lnot q \implies \lnot p​$. Thus, if he did not get an A on the test, he did not get all of the multiple choice questions correct (he got at least one wrong). As such, the answer is $\boxed B​$.
 
 4. After some trial and error, we see that if the answer is $\boxed{ \textbf {(C)}\ \text{thirty-three}}$, there are exactly 33 letters in the other answer choices.
 
-6. Computing the sum of rows, columns, and diagonals that we already know, we get that the last row sums to $31​$, the last column sums to $30​$, and the diagonal sums to $39​$. This means that the consecutive sums are $30\cdots39​$. After some trial and error, we see that the following grid works, meaning the answer is $\boxed{\textbf{(D)}\ 15}​$
-
-![magic square ans](/home/ubuntu/AMC-Club/img/Week 2 Magic Square Answer.png)
+5. Computing the sum of rows, columns, and diagonals that we already know, we get that the last row sums to $31​$, the last column sums to $30​$, and the diagonal sums to $39​$. This means that the consecutive sums are $30\cdots39​$. After some trial and error, we see that the following grid works, meaning the answer is $\boxed{\textbf{(D)}\ 15}​$
+   $$
+   \begin{bmatrix}
+   8&1&\boxed{15}&14\\
+   19&9&3&7\\
+   2&12&13&5\\
+   10&11&6&4
+   \end{bmatrix}
+   $$
 
