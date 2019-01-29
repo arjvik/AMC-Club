@@ -28,7 +28,7 @@ On problems relating to formal logic, i.e. what you learned in Geometry, think a
 
 
 
-2. What is the largest number of points a circle and triangle could possibly intersect at?
+2. What is the largest number of points a circle and triangle could possibly intersect at? *(Credit: myself)*
 
 $$
 \textbf{(A)} \quad 0 \qquad
@@ -41,7 +41,12 @@ $$
 
 
 3. Ms. Carroll promised that anyone who got all the multiple choice questions right on the upcoming exam would receive an A on the exam. Which one of these statements necessarily follows logically? *(Credit: 2017 AMC 10A #6)*
-   $$\qquad\textbf{(A)}\ \text{If Lewis did not receive an A, then he got all of the multiple choice questions wrong.}\\\qquad\textbf{(B)}\ \text{If Lewis did not receive an A, then he got at least one of the multiple choice questions wrong.}\\\qquad\textbf{(C)}\ \text{If Lewis got at least one of the multiple choice questions wrong, then he did not receive an A.}\\\qquad\textbf{(D)}\ \text{If Lewis received an A, then he got all of the multiple choice questions right.}\\\qquad\textbf{(E)}\ \text{If Lewis received an A, then he got at least one of the multiple choice questions right.}​$$
+
+$\qquad\textbf{(A)}\ \text{If Lewis did not receive an A, then he got all of the multiple choice questions wrong.}\\$
+$\qquad\textbf{(B)}\ \text{If Lewis did not receive an A, then he got at least one of the multiple choice questions wrong.}\\$
+$\qquad\textbf{(C)}\ \text{If Lewis got at least one of the multiple choice questions wrong, then he did not receive an A.}\\$
+$\qquad\textbf{(D)}\ \text{If Lewis received an A, then he got all of the multiple choice questions right.}\\$
+$\qquad\textbf{(E)}\ \text{If Lewis received an A, then he got at least one of the multiple choice questions right.}$
 
 
 
@@ -49,14 +54,14 @@ $$
    $$
    \textbf{(A)} \quad \text{eleven} \qquad
    \textbf{(B)} \quad \text{twenty-two} \qquad
-   \textbf{(C)} \quad \text{thirty-three} \qquad
+   \textbf{(C)} \quad \text{thirty-three} \qquad\\
    \textbf{(D)} \quad \text{forty-four} \qquad
    \textbf{(E)} \quad \text{fifty-five}
    $$
 
 
 
-5. The numbers from $1$ to $16$ can be entered into a $4\times4$ grid so that the sum of the numbers in each of the four rows, four columns, and two diagonals are ten consecutive numbers in some order. The diagram shows a partially completed $4\times4$ grid. When completed, what number will go in the position marked by the $\star$ ?
+5. The numbers from $1$ to $16$ can be entered into a $4\times4$ grid so that the sum of the numbers in each of the four rows, four columns, and two diagonals are ten consecutive numbers in some order. The diagram shows a partially completed $4\times4$ grid. When completed, what number will go in the position marked by the $\star$ ? *(Credit: Mock AMC 10 by AoPS, #17)*
    $$
    \begin{bmatrix}
    &&*&14\\
@@ -65,7 +70,7 @@ $$
    10&11&6&4
    \end{bmatrix}
    $$
-   
+
    $$
    \textbf{(A)} \quad 1 \qquad
    \textbf{(B)} \quad 2 \qquad
@@ -80,12 +85,12 @@ $$
    1. If A is lying, then B is telling the truth, then C is lying, then D is telling the truth.
    2. If A is telling the truth, then B is lying, then C is telling the truth, then D is lying.
 
-   Either way, E knows that exactly two people other then her are lying, so she is telling the truth. Thus, exactly $\boxed 2$ people are lying.
+   Either way, E knows that exactly two people other then her are lying, so she is telling the truth. Thus, exactly $\boxed{\textbf{(B)}\ 2}$ people are lying.
 
-2. Drawing a diagram, we see that $\boxed6$ intersection points is possible.
+2. Drawing a diagram, we see that $\boxed{\textbf{(E)}\ 6}$ intersection points is possible.
    ![Circle and Triangle](https://i.ibb.co/s9MXKPb/circtri.png)
    
-3. Let $p​$ be getting all the multiple choice questions correct, and $q​$ be getting an A on the test. The teacher said that $p \implies q​$. We know that the contrapositive of this statement is true as well, so $\lnot q \implies \lnot p​$. Thus, if he did not get an A on the test, he did not get all of the multiple choice questions correct (he got at least one wrong). As such, the answer is $\boxed B​$.
+3. Let $p$ be getting all the multiple choice questions correct, and $q$ be getting an A on the test. The teacher said that $p \implies q$. We know that the contrapositive of this statement is true as well, so $\lnot q \implies \lnot p$. Thus, if he did not get an A on the test, he did not get all of the multiple choice questions correct (he got at least one wrong). As such, the answer is $\boxed{\textbf{(B)}}$.
 
 4. After some trial and error, we see that if the answer is $\boxed{ \textbf {(C)}\ \text{thirty-three}}$, there are exactly 33 letters in the other answer choices.
 
@@ -99,3 +104,123 @@ $$
    \end{bmatrix}
    $$
 
+## Counting: Newton's Apple Ice Cream shop
+
+Counting may seem like something that is easy, but it can get extremely complicated. A lot of AMC problems are about counting certain permutations and combinations of items. We will begin our exploration of combinatorics, which is the field of mathematics dedicated to counting, by learning about some permutations and combinations.
+
+### Permutations with repetition
+
+Imagine you are at an ice cream store, and there are $n$ flavors of ice cream. You want a cone with $k$ scoops on it. *How many ways are there to create different $k$-scoop cones with $n​$ flavors?*
+
+First of all, we say that a cone with strawberry ice cream on top and chocolate ice cream on the bottom is different from one with chocolate ice cream on top and strawberry on the bottom. This may be debatable, but for the context of this lesson, it is the truth. This basically means that we must consider order when we are counting outcomes.
+
+Here is how we can count this. There are exactly $n$ choices for our first scoop, since we can pick out of all of the flavors. Then there are exactly $n$ choices for our second scoop, and then $n$ choices for our third scoop, and so on so forth. Thus, the total number of possible cones is
+$$
+\underbrace{n\times n\times \cdots \times n}_{\text{$k$ times}} = n^k
+$$
+This means that if you have $n$ items, and you want to have $k$ of them, where the **order of the items matters,** and **repeats *are* allowed,** there are $\boxed{n^k}$ possible outcomes.
+
+#### Simple example problems:
+
+1. Mr. Newton has three ties. He can wear any one of them to school each day. How many different ways can he wear a tie for a school week ($5$ days)?
+   Answer: 3 choices, 5 days, so $3^5=\boxed{243}​$
+2. Mr. Newton, tired of the same routine every day, decides to change up his freshman calculus class. Each day for the entire six weeks ($30$ school days), he will give his class anywhere from $0$ to $6$ "quick-quizzes." a) How many ways can he schedule this? b) Also, would this be a good idea?
+   Answer: a) 7 options ($0$, $1$, $2$ ... $6$), 30 days so $\boxed{7^{30}}​$ 
+                  b) Yes, because more math is more fun!
+
+### Permutations without repetition
+
+Next, imagine that too many people ordered cones that are only chocolate and the store is starting to run out, so they say that you may not have more than one scoop of one flavor of ice cream. *Now how many ways are there to make a $k$-scoop ice cream cone from $n$ flavors?*
+
+We need to rethink our approach a bit. For the first scoop, there are $n$ choices. But now, after we take one scoop of that flavor, we can no longer use it anymore. Thus, the number of options we have for the second scoop is $n-1$. Now, since we have chosen two flavors already, we only have $n-2​$ flavors to choose for our third scoop. Continuing on, we see that there are
+$$
+\begin{align}
+&\qquad n \times (n-1) \times (n-2) \times \cdots \times (n-k+1)\\\\
+
+
+&= n \times (n-1) \times (n-2) \times \cdots \times (n-k+1) \times \frac{(n-k) \times (n-k-1) \times \cdots \times 2 \times 1}{(n-k) \times (n-k-1) \times \cdots \times 2 \times 1}\\\\
+
+&= \frac{n \times (n-1) \times (n-2) \times \cdots \times (n-k+1) \times (n-k) \times (n-k-1) \times \cdots \times 2 \times 1}{(n-k) \times (n-k-1) \times \cdots \times 2 \times 1}\\\\
+
+&= \frac{n!}{(n-k)!}
+\end{align}
+$$
+total outcomes.
+
+Make sure you see why this works. We denote this commonly as $n\ \textbf P\ k​$, which stands for $n​$ pick $k​$. This means that if you have $n​$ items, and you want to have $k​$ of them, where the **order of the items matters,** and **repeats are *not* allowed,** there are $\boxed{n\ \textbf P\ k = \frac{n!}{(n-k)!}}​$ possible outcomes.
+
+#### Simple example problems:
+
+1. Mr. Newton has $30​$ students. He wants to pick four different students to solve the warm-up problems. How many ways can he do this?
+   Answer: He wants to pick 4 students from all 30 students, so $30\ \textbf P\ 4 = \frac{30!}{26!} = 30\cdot29\cdot28\cdot27=\boxed{657720}​$.
+2. Mr. Newton has 8 questions in his test bank, and he needs to pick 3 for today's quiz. How many ways can he do this?
+   Answer: $8\ \textbf P\ 3 = \frac{8!}{5!} = 8*7*6 = \boxed{336}$.
+
+### Combinations without repetition
+
+Now, we imagine that the ice cream shop is under new management, and they decide that cones are too expensive, and they will only serve ice cream in bowls. We will say that when a bowl has strawberry and chocolate ice cream, it is the **exact same** as a bowl with chocolate and strawberry. We will say that because you can easily move the ice cream scoops around in your bowl. Again, while this is debatable, for the purpose of this analogy, we will consider it to be true.
+
+*How many $k$-scoop bowls can we make from $n​$ flavors?*
+
+We start by pretending that order matters for a bit. We already know that when the order of the scoops matter, we will get $n\ \textbf P\ k$ outcomes. Now, we need to figure out how to correct for the order.
+
+A good trick when you are stuck is to play around a bit with some examples. Let our flavors be $A$, $B$, and $C$. We see that both $A,B,C$ and $C,B,A$ are the same when we are trying to count combinations, but different when we count permutations. In order to correct for this, we must figure out how many times we count this single case.
+
+After some more experimentation, we see that we are counting the case $A, B, C$ as
+
+1. $A, B, C$
+2. $A, C, B$
+3. $B, A, C$
+4. $B, C, A​$
+5. $C, A, B$
+6. $C, B, A​$
+
+The reason we count this case $6​$ times is that there are $6​$ ways to rearrange 3 different letters. So we can just divide out how many ways there are to rearrange $k​$ letters, which is just $k!​$. (If you don't see why there are $k!​$ ways of rearranging $k​$ elements, think of it as $k\ \textbf P\ k​$.)
+
+So now our answer is that there are $\dfrac{n\ \textbf P\ k}{k!} = \dfrac{n!}{k!\cdot(n-k)!}$ outcomes.
+
+We denote this as $n\ \textbf C\ k$, or more commonly as $\dbinom nk$, which stands for $n$ pick $k$. This means that if you have $n$ items, and you want to have $k$ of them, where the **order of the items *does not matter*,** and **repeats are *not* allowed,** there are $\boxed{n\ \textbf C\ k = \frac{n!}{k!\cdot(n-k)!}}$ possible outcomes.
+
+#### Simple example problems:
+
+1. Mr. Newton needs to choose 4 students for the Math team. He has 30 interested students. How many ways are there for him to select these 4 students, if the order in which the students are selected is unimportant?
+   Answer: $30\ \textbf C\ 4= \dfrac{30\cdot29\cdot28\cdot27}{4\cdot3\cdot2\cdot1}=\boxed{27405}​$.
+2. Mr. Newton has 6 different vegan sandwiches in his refrigerator. He wants to take three of them for lunch. How many ways can he choose three of the sandwiches?
+   Answer: $6\ \textbf C\ 3 = \frac{6!}{3!3!} = \frac{720}{36} = \boxed{20}$.
+
+### Advanced: Combinations with repetition
+
+**We will probably not cover this in class for the sake of time, but feel free to read this and do these problems at home.**
+
+Its 2050, and the robot apocalypse has come. Now, all jobs have been taken over by robots. The ice cream shop still uses bowls, so the order of scoops does not matter, but the robots predict the future and always have enough ice cream on hand, so you can have multiple scoops of the same flavor.
+
+How many $k$-scoop bowls can we make with $n$ flavors?
+
+We first think of how the robots would serve customers. Imagine the ice cream shop as being a long line of ice cream tubs. The robot starts from the left-most end. The robot can only do two things, move to the right, or add a scoop from the tub it is in front of.
+
+Here is an example:
+
+Let the flavors be $A, B, C, D, \text{ and } E$. Imagine I want a bowl with $B, B, D, E$. My instructions to the robot will be
+$$
+\underbrace {\small\text{(start)}} _\text{Robot starts at $A$} \quad
+\underbrace {\rightarrow} _\text{Move to $B$} \quad
+\underbrace {\ *\ } _\text{Take $B$} \quad
+\underbrace {\ *\ } _\text{Take $B$} \quad
+\underbrace {\rightarrow} _\text{Move to $C$} \quad
+\underbrace {\rightarrow} _\text{Move to $D$} \quad
+\underbrace {\ *\ } _\text{Take $D$} \quad
+\underbrace {\rightarrow} _\text{Move to $E$} \quad
+\underbrace {\ *\ } _\text{Take $E$} \quad
+$$
+We see that we can represent any possible combination of flavors like this, as a permutation of $n - 1​$ arrows and $k​$ stars. We can then count the possible combinations of bowls by just counting how many ways we can arrange $n-1​$ arrows and $k​$ stars, which is just $\boxed{\dbinom{n+k-1}{n-1} = \dbinom{n+k-1}{k}}​$.
+
+#### Simple example problems:
+
+1. Mr. Newton has a bag of $100$ pieces of candy. Mr. Newton wants to give this candy out to all the $30$ students in his class, but Mr. Newton is also feeling slightly evil today. He decides that he is going to distribute the candy with absolutely no restrictions. He may choose to not give certain students candy, or he may choose to give all the candy to one student. The only rule is that he gives out all of his candy. How many ways can he do this?
+   (Note: this is probably very badly worded, because unlike the problem  writers who work for MAA, I am not paid to write math problems. The gist of this problem is it wants you to choose $100$ students to receive candy, without caring about repeats.)
+   Answer: $n=30$, $k=100$. So we are looking for $\dbinom{129}{29}$ or $\dbinom{129}{100}$.
+
+2. Mr. Newton decides that he is going to randomly select $10$ students in the class of $30$ students to receive bonus points on their Calculus grade. He draws $10$ names out of a hat with replacement. If he draws a student more than once, he will keep increasing their grade each time. How many different groups of students can he draw?
+   Answer: $n=30$, $k=10$. So we are looking for $\dbinom{39}{29}$ or $\dbinom{39}{10}$.
+
+ 
