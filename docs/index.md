@@ -1,5 +1,9 @@
 # Welcome to SEM's AMC Club!
 
+### Hosted by Arjun Vikram and Aneesh Sharma
+
+
+
 Announcements:
 
 - AMC Club meets on Tuesdays in Mr. Newton's room
