@@ -41,7 +41,7 @@ An ''iterative average'' of the numbers $1$, $2$, $3$, $4$, and $5$ is computed 
 
 $ \textbf{(A)}\ \frac{31}{16}\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ \frac{17}{8}\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ \frac{65}{16} $
 
-## Problem 8
+## Problem 7
 
 A year is a leap year if and only if the year number is divisible by $400$ (such as $2000$) or is divisible by $4$ but not by $100$ (such as $2012$).  The $200\text{th}$ anniversary of the birth of novelist Charles Dickens was celebrated on February $7$, $2012$, a Tuesday.  On what day of the week was Dickens born?
 
@@ -52,25 +52,25 @@ $ \textbf{(A)}\ \text{Friday}
 \qquad\textbf{(E)}\ \text{Tuesday}
  $
 
-## Problem 9
+## Problem 8
 
 A triangle has area $30$, one side of length $10$, and the median to that side of length $9$.  Let $\theta$ be the acute angle formed by that side and the median.  What is $\sin{\theta}$?
 
 $ \textbf{(A)}\ \frac{3}{10}\qquad\textbf{(B)}\ \frac{1}{3}\qquad\textbf{(C)}\ \frac{9}{20}\qquad\textbf{(D)}\ \frac{2}{3}\qquad\textbf{(E)}\ \frac{9}{10} $
 
-## Problem 10
+## Problem 9
 
 Alex, Mel, and Chelsea play a game that has $6$ rounds.  In each round there is a single winner, and the outcomes of the rounds are independent.  For each round the probability that Alex wins is $\frac{1}{2}$, and Mel is twice as likely to win as Chelsea.  What is the probability that Alex wins three rounds, Mel wins two rounds, and Chelsea wins one round?
 
 $ \textbf{(A)}\ \frac{5}{72}\qquad\textbf{(B)}\ \frac{5}{36}\qquad\textbf{(C)}\ \frac{1}{6}\qquad\textbf{(D)}\ \frac{1}{3}\qquad\textbf{(E)}\ 1 $
 
-## Problem 11
+## Problem 10
 
 A square region $ABCD$ is externally tangent to the circle with equation $x^2+y^2=1$ at the point $(0,1)$ on the side $CD$.  Vertices $A$ and $B$ are on the circle with equation $x^2+y^2=4$.  What is the side length of this square?
 
 $ \textbf{(A)}\ \frac{\sqrt{10}+5}{10}\qquad\textbf{(B)}\ \frac{2\sqrt{5}}{5}\qquad\textbf{(C)}\ \frac{2\sqrt{2}}{3}\qquad\textbf{(D)}\ \frac{2\sqrt{19}-4}{5}\qquad\textbf{(E)}\ \frac{9-\sqrt{17}}{5} $
 
-## Problem 12
+## Problem 11
 
 Paula the painter and her two helpers each paint at constant, but different, rates.  They always start at $\text{8:00 AM}$, and all three always take the same amount of time to eat lunch.  On Monday the three of them painted $50\%$ of a house, quitting at $\text{4:00 PM}$.  On Tuesday, when Paula wasn't there, the two helpers painted only $24\%$ of the house and quit at $\text{2:12 PM}$.  On Wednesday Paula worked by herself and finished the house by working until $\text{7:12 PM}$.  How long, in minutes, was each day's lunch break?
 
@@ -81,15 +81,15 @@ $ \textbf{(A)}  30
 \qquad\textbf{(E)}\ 60
  $
 
-## Problem 13
+## Problem 12
 
 The closed curve in the figure is made up of $9$ congruent circular arcs each of length $\frac{2\pi}{3}$, where each of the centers of the corresponding circles is among the vertices of a regular hexagon of side $2$. What is the area enclosed by the curve? 
 
-<img src="https://latex.artofproblemsolving.com/b/8/8/b887867827b6b53efb70abc6807aa51c7a2287fe.png" width=400>
+<img src="https://latex.artofproblemsolving.com/b/8/8/b887867827b6b53efb70abc6807aa51c7a2287fe.png" width=200>
 
 $ \textbf{(A)}\ 2\pi+6\qquad\textbf{(B)}\ 2\pi+4\sqrt3 \qquad\textbf{(C)}\ 3\pi+4 \qquad\textbf{(D)}\ 2\pi+3\sqrt3+2 \qquad\textbf{(E)}\ \pi+6\sqrt3 $
 
-## Problem 14
+## Problem 13
 
 A $3\times3$ square is partitioned into $9$ unit squares.  Each unit square is painted either white or black with each color being equally likely, chosen independently and at random.  The square is then rotated $90^\circ$ clockwise about its center, and every white square in a position formerly occupied by a black square is painted black.  The colors of all other squares are left unchanged.  What is the probability that the grid is now entirely black?
 
@@ -100,7 +100,7 @@ $ \textbf{(A)}\ \dfrac{49}{512}
 \qquad\textbf{(E)}\ \dfrac{9}{32}
  $
 
-## Problem 15
+## Problem 14
 
 Let $S$ be a subset of $\{1,2,3,\dots,30\}$ with the property that no pair of distinct elements in $S$ has a sum divisible by $5$.  What is the largest possible size of $S$?
 
