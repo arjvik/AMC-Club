@@ -14,7 +14,8 @@ Announcements:
 
 ## Click the links below to view our notes
 
-- [Week 1 Notes](Week1.pdf)
-- [Week 2 Notes](Week2.pdf)
+- [Lesson 1 Notes](Week1.pdf)
+- [Lesson 2 Notes](Week2.pdf)
+- [Problemset 1](Problemset1.pdf)
 - [Advanced Problems](Week2Advanced.pdf)
 
