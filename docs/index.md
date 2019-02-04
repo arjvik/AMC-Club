@@ -17,5 +17,6 @@ Announcements:
 - [Lesson 1 Notes](Week1.pdf)
 - [Lesson 2 Notes](Week2.pdf)
 - [Problemset 1](Problemset1.pdf)
-- [Advanced Problems](Week2Advanced.pdf)
+- [Problemset 1 Advanced](Problemset1Advanced.pdf)
+- [Advanced AIME Problems](Week2Advanced.pdf)
 
