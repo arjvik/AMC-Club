@@ -6,9 +6,7 @@
 
 Announcements:
 
-- AMC Club meets on Tuesdays in Mr. Newton's room
-- Anybody of any skill level is welcome to come!
-- Please invite all your friends!
+- The AMC 10B/12B is on **Wednesday, February 13th** during 1st period. Talk to Mr. Newton for more information.
 
 
 
