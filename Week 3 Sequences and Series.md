@@ -106,11 +106,7 @@ Notice the $n-1$ instead of $n$. The reason for this is that every time we move 
 
 
 
-The general form of an arithmetic sequence is:
-$$
-a ,\  a+d ,\  a+2d ,\  a+3d ,\  a+4d ,\  \cdots
-$$
-$aSolutions
+#### Solutions
 
 **Problem 1.**
 
@@ -268,7 +264,7 @@ an + \frac{nd(n-1)}2
 $$
 
 
-## Side note: Sigma Notation
+## Sigma Notation
 
 When mathematicians wish to denote sums, they often use sigma notation, which uses the capital Greek letter $\Sigma$.
 
@@ -325,6 +321,16 @@ $$
 \sum_{n=1}^x\ n^3 &= \left(\frac{n(n+1)}2\right)^2 \\
 \end{align}
 $$
+As an added challenge, try evaluating this sum using the previous properties in the space below.
+
+
+
+
+
+ 
+
+
+
 **Problem 5**
 
 First, we need to make a substitution such that our sum starts at $n=1$, so we can apply our arithmetic sequence formula. We let $n=k-3$, so our sum becomes
@@ -335,6 +341,13 @@ Now we see that we just have an arithmetic sequence with $a=1$, $d=2$ and $n=100
 $$
 \sum_{n=1}^{100} 2(n-1)+1 = 100\cdot\frac{1+199}2 = \boxed{10,000}
 $$
+
+
+
+
+
+
+
 
 
 
@@ -356,11 +369,7 @@ $a$ is the first term.
 
 $r$ is the common ratio.
 
-
-
 Try to see if you can find the formula for the $n$th term of a geometric sequence on your own:
-
-
 
 
 
@@ -386,3 +395,173 @@ $$
 &= \frac a{1-r}.\\
 \end{align}
 $$
+
+#### Quick Check
+
+**6.** On Monday, John earns $\$1$. On Tuesday, he earns $\$0.50$. On Wednesday, he earns $\$0.25$. Each day afterwards, he earns half what he earned the previous day.
+
+**A.** Write a formula for the amount of money he gets on the $n$th day.
+
+
+
+
+
+**B.** How much money does he earn on the $6$th day? How much does he earn in total over the first $6$ days?
+
+
+
+
+
+
+
+**C.** If this continues on forever, how much money will he make?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Solutions
+
+**Problem 6**
+
+**A.** Using what we already know about geometric sequences, the formula is
+$$
+a_n = 1 \cdot \left(\frac12 \right)^{n-1} = 2^{-(n-1)}
+$$
+**B.** He will earn $2^{-5} = \frac1{32} = \$0.03125$ on the $6$th day. Plugging in this into our sum formula, he will have
+$$
+1\cdot\frac{1-(1/2)^n}{1-1/2} = \frac{1-1/64}{1/2} = \frac{63/64}{1/2} = \frac{63}{32} = \$1.96875.
+$$
+
+
+**C.** Plugging this into our formula for infinite sums, we get
+$$
+\frac{1}{1-1/2} = \frac1{1/2} = $2.
+$$
+
+
+
+
+## Problems
+
+**1.** A grocer makes a display of cans in which the top row has one can and each lower row has two more cans than the row above it. If the display contains $100$ cans, how many rows does it contain? *(Source: 2004 AMC 12B)*
+
+$\mathrm{(A)\ }5\qquad\mathrm{(B)\ }8\qquad\mathrm{(C)\ }9\qquad\mathrm{(D)\ }10\qquad\mathrm{(E)\ }11​$
+
+
+
+
+
+
+
+
+
+**2.** How many non-similar triangles have angles whose degree measures are distinct positive integers in arithmetic progression? *(Source: 2006 AMC 10A)*
+
+$\mathrm{(A) \ } 0\qquad\mathrm{(B) \ } 1\qquad\mathrm{(C) \ } 59\qquad\mathrm{(D) \ } 89\qquad\mathrm{(E) \ } 178\qquad$
+
+
+
+
+
+
+
+
+
+**3.** Suppose that $\{a_n\}$ is an arithmetic sequence with $a_1+a_2+\cdots+a_{100}=100 \text{ and } a_{101}+a_{102}+\cdots+a_{200}=200.$What is the value of $a_2 - a_1 ?$ *(Source: 2002 AMC 10B)*
+
+$\mathrm{(A) \ } 0.0001\qquad \mathrm{(B) \ } 0.001\qquad \mathrm{(C) \ } 0.01\qquad \mathrm{(D) \ } 0.1\qquad \mathrm{(E) \ } 1$
+
+
+
+
+
+
+
+**4. **The first three terms of a geometric progression are $\sqrt3$, $\sqrt[3]3$, and $\sqrt[6]3$. What is the fourth term? *(Source: 2014 AMC 12A)*
+
+$\textbf{(A) }1\qquad
+\textbf{(B) }\sqrt[7]3\qquad
+\textbf{(C) }\sqrt[8]3\qquad
+\textbf{(D) }\sqrt[9]3\qquad
+\textbf{(E) }\sqrt[10]3\qquad​$
+
+
+
+
+
+**5. ** What is the average of $2012$ consecutive positive integers whose sum is $2012^3$? *(Source: Math League HS 2011-2012)*
+
+ $\textbf{(A) }1\qquad
+\textbf{(B) }2012\qquad
+\textbf{(C) }4024\qquad
+\textbf{(D) }2012^2\qquad
+\textbf{(E) }2012^3\qquad​$
+
+
+
+
+
+**6. ** In the pentagon $ABCDE$, the letters $A, B, C, D, E$ are replaced by the numbers $3, 5, 6, 7, 9$, although not necessarily in this order. The sums of the numbers at the ends of the line segments $AB, BC, CD, DE, EA$ form an arithmetic sequence, although not necessarily in that order. What is the middle term of the arithmetic sequence? *(Source: 2005 AMC 10A)*
+
+$\mathrm{(A) \ } 9\qquad \mathrm{(B) \ } 10\qquad \mathrm{(C) \ } 11\qquad \mathrm{(D) \ } 12\qquad \mathrm{(E) \ } 13$
+
+
+
+**Challenge Problems**
+
+**7.** The terms of an arithmetic sequence add to $715$. The first term of the sequence is increased by $1$, the second term is increased by $3$, the third term is increased by $5$, and in general, the $k$th term is increased by the $k$th odd positive integer. The terms of the new sequence add to $836$. Find the sum of the first, last, and middle terms of the original sequence. *(Source: 2012 AIME 1)*
+
+
+
+
+
+
+
+**8. **An infinite geometric series has sum 2005. A new series, obtained by squaring each term of the original series, has 10 times the sum of the original series. The common ratio of the original series is $\frac mn$ where $m$ and $n$ are relatively prime integers (basically, the fraction is in lowest terms). Find $m+n$. *(Source: 2005 AIME 2)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Answers:** 1. D  2. C  3. C  4. A  5. D  6. D
+
+**Challenge Problems:** 195 802
