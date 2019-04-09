@@ -15,6 +15,8 @@ Announcements:
 - [Lesson 2 Notes](Week2.pdf)
 - [Lesson 3 Notes](Week3.pdf)
 - [Lesson 4 Notes](Week4.pdf)
+- [Lesson 5 Notes](Week5.pdf)
+- [Lesson 6 Notes](Week6.pdf)
 
 ## Problemsets
 - [Problemset 1](Problemset1.pdf)
