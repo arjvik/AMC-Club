@@ -17,6 +17,7 @@ Announcements:
 - [Lesson 4 Notes](Week4.pdf)
 - [Lesson 5 Notes](Week5.pdf)
 - [Lesson 6 Notes](Week6.pdf)
+- [Lesson 7 Notes](Week7.pdf)
 
 ## Problemsets
 - [Problemset 1](Problemset1.pdf)
@@ -28,3 +29,4 @@ Announcements:
 - [2019 AMC 10A Problems and Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10A_Problems)
 - [2019 AMC 10B Packet](2019-10B.pdf)
 - [2019 AMC 10B Problems and Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10B_Problems)
+- [2015 AIME II](2015-AIME-2.pdf)
