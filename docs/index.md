@@ -22,6 +22,7 @@ Announcements:
 ## Problemsets
 - [Problemset 1](Problemset1.pdf)
 - [Problemset 1 Advanced](Problemset1Advanced.pdf)
+- [Problemset 2](Problemset2.pdf)
 - [Advanced AIME Problems](Week2Advanced.pdf)
 
 ## Past AMCs
