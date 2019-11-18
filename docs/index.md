@@ -6,7 +6,8 @@
 
 Announcements:
 
-- Even though the AMCs are over this year, you have lots of time to prepare for next year. We are still continuing the club, so don't stop showing up.
+- AMC club is now held in Mr. Barasch's room on Mondays after school
+- The AMC 10/12 A is on January 30th, and the AMC 10/12 B is on February 5th. Times and rooms TBA by Ms. Tan.
 
 
 ## Lesson notes
