@@ -2,16 +2,9 @@
 
 ## **Compiled by Arjun Vikram**
 
+### $``\text{Students, warm-up!}"$ - Mr. Newton $\newcommand{\answers}[5]{\begin{array}{c}\text{(A) $#1$}&\text{(B) $#2$}&\text{(C) $#3$}&\text{(D) $#4$}&\text{(E) $#5$}&\end{array}}$
 
-
-### $``\text{Students, warm-up!}"$ - Mr. Newton
-
-
-$$
-\newcommand{\answers}[5]{\begin{array}{c}\text{(A) $#1$}&\text{(B) $#2$}&\text{(C) $#3$}&\text{(D) $#4$}&\text{(E) $#5$}&\end{array}}
-$$
-
-
+![](https://i.imgur.com/G3raH9j.png)
 
 #### How to use this review
 
@@ -24,10 +17,6 @@ Try out the warm-up in each section before starting the exercises, and make sure
 Attempt to solve each problem before looking at the solution. If you are stumped on a problem, take a break and look at it again. Don't jump to reading the solution.
 
 Solve each problem on scratch paper, and be organized with your work, so you can stay organized on the real test.
-
-
-
-
 
 ### Quick tips about the AMC 10
 
