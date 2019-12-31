@@ -28,6 +28,7 @@ Announcements:
 - [Problemset 2](Problemset2.pdf)
 - [Advanced AIME Problems](Week2Advanced.pdf)
 - [Advanced AIME Problems Part 2](AdvancedAIMEProblemsPart2.pdf)
+- [Holiday Review 2019-2020](Holiday-Review-2019-2020.pdf)
 
 ## Past AMCs
 - [2019 AMC 10A Packet](2019-10A.pdf)
