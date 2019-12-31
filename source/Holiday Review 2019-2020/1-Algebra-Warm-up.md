@@ -11,6 +11,8 @@
    
    - iii. Sum of a geometric series with $\infty$ terms, with first term $a_1$ and ratio $-1<r<1$?
    
+   
+   
 2. What are Vieta's formulas for:
    - a quadratic $ax^2+bx+c$ with roots $r, s$:
      - i. Sum of roots $r+s=$
@@ -18,6 +20,8 @@
      
      
      - ii. Product of roots $rs=$
+     
+     
      
    - a cubic $ax^3+bx^2+cx+d$ with roots $r,s,t$:
      - iii. Sum of roots $r+s+t=$
@@ -29,6 +33,8 @@
      
      
      - v. Product of roots $rst=$
+     
+     
      
    - a general polynomial $a_nx^n+a_{n-1}x^{n-1}+\cdots+a_1x+a_0$:
      - vi. Sum of roots =

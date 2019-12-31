@@ -60,7 +60,7 @@
    $$
    \answers{642}{813}{893}{900}{917}
    $$
-   [Solution](https://artofproblemsolving.com/wiki/index.php/2006_AMC_10B_Problems/Problem_10)
+   [Solution](https://artofproblemsolving.com/wiki/index.php/2006_AIME_II_Problems/Problem_2)
 
    
 
@@ -71,6 +71,16 @@
    \answers{16}{17}{18}{19}{20}
    $$
    [Solution](https://artofproblemsolving.com/wiki/index.php/2018_AMC_12B_Problems/Problem_12)
+
+   
+
+   
+
+   
+
+   
+
+   
 
    
 
@@ -98,7 +108,7 @@
    $$
    \answers{25}{128}{153}{243}{256}
    $$
-   [Solution](https://artofproblemsolving.com/wiki/index.php/1991_AHSME_Problems/Problem_19)
+   [Solution](https://artofproblemsolving.com/wiki/index.php/1991_AHSME_Problems/Problem_19) (look at Solution 2, especially note the author!)
 
    
 

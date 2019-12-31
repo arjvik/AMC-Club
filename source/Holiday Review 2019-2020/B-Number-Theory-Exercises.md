@@ -50,6 +50,6 @@
 
 7. Prove that the fraction $\dfrac{21n+4}{14n+3}$ is irreducible for every natural number $n$.
 
-   Note: this is an IMO problem! Try it!
+   Note: this is an IMO problem, but is is widely regarded as the easiest IMO problem ever. Try it, you will be pleasantly surprised to see that you can sovle an IMO problem!
 
    [Solution](https://artofproblemsolving.com/wiki/index.php/1959_IMO_Problems/Problem_1)

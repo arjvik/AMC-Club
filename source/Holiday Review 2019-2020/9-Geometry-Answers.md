@@ -3,11 +3,12 @@
 **Warm-up:**
 
 1. Triangle formulas:
-   - Standard formula (half times base times height): $\frac12 bh$
-   - SAS area: $\frac12ab\sin C$ (and cyclic permutations)
-   - Heron's formula: $\sqrt{s(s-a)(s-b)(s-c)}$
-   - Inradius formula: $r\cdot s$
-   - Equilateral Triangle formula: $\frac{\sqrt3}4a^2$
+   - Standard formula (half times base times height): $K=\frac12 bh$
+   - SAS area: $K=\frac12ab\sin C$ (and cyclic permutations)
+   - Heron's formula: $K=\sqrt{s(s-a)(s-b)(s-c)}$
+   - Inradius formula: $K=r\cdot s$
+   - Circumradius formula: $K=\dfrac{abc}{4R}$
+   - Equilateral Triangle formula: $K=\frac{\sqrt3}4a^2$
    - ...and several more advanced formulas
 2. Law of Sines/Cosines:
    - (Extended) Law of Sines: $\dfrac{\sin A}a = \dfrac{\sin B}b = \dfrac{\sin C}c = \dfrac1{2R}$

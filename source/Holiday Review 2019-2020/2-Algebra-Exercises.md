@@ -50,7 +50,7 @@
 
    
    
-7. Two non-zero real numbers $a,~b$ satisfy $ab=a-b$. What is the value of
+7. Two non-zero real numbers $a,~b$ satisfy $ab=a-b$. What is the value of $ab=a-b$?
    $$
    \answers{-2}{-\frac12}{\frac13}{\frac12}2
    $$
@@ -75,8 +75,7 @@
    
    
 10. The first four terms in an arithmetic sequence are $x+y$, $x-y$, $xy$, and $x/y$ in that order. What is the fifth term?
-$$
-\answers{-\frac{15}8}{-\frac65}{0}{\frac{27}{20}}{\frac{123}{40}}
-$$
-​       [Solution](https://artofproblemsolving.com/wiki/index.php/2003_AMC_10B_Problems/Problem_24)
-
+    $$
+    \answers{-\frac{15}8}{-\frac65}{0}{\frac{27}{20}}{\frac{123}{40}}
+    $$
+    [Solution](https://artofproblemsolving.com/wiki/index.php/2003_AMC_10B_Problems/Problem_24)
