@@ -50,7 +50,7 @@
 
    
    
-7. Two non-zero real numbers $a,~b$ satisfy $ab=a-b$. What is the value of $ab=a-b$?
+7. Two non-zero real numbers $a,~b$ satisfy $ab=a-b$. What is the value of $\frac ab + \frac ba - ab$?
    $$
    \answers{-2}{-\frac12}{\frac13}{\frac12}2
    $$
