@@ -118,7 +118,7 @@ $\qquad\textbf{(E)}\ \text{If Lewis received an A, then he got at least one of t
 
 4. After some trial and error, we see that if the answer is $\boxed{ \textbf {(C)}\ \text{thirty-three}}$, there are exactly 33 letters in the other answer choices.
 
-5. Computing the sum of rows, columns, and diagonals that we already know, we get that the last row sums to $31​$, the last column sums to $30​$, and the diagonal sums to $39​$. This means that the consecutive sums are $30\cdots39​$. After some trial and error, we see that the following grid works, meaning the answer is $\boxed{\textbf{(D)}\ 15}​$
+5. Computing the sum of rows, columns, and diagonals that we already know, we get that the last row sums to $31$, the last column sums to $30$, and the diagonal sums to $39$. This means that the consecutive sums are $30\cdots39$. After some trial and error, we see that the following grid works, meaning the answer is $\boxed{\textbf{(D)}\ 15}$
    $$
    \begin{bmatrix}
    8&1&\boxed{15}&14\\
@@ -155,7 +155,7 @@ This means that if you have $n$ items, and you want to have $k$ of them, where t
 #### Simple example problems:
 
 1. Mr. Newton has three ties. He can wear any one of them to school each day. How many different ways can he wear a tie for a school week ($5$ days)?
-   Answer: 3 choices, 5 days, so $3^5=\boxed{243}​$
+   Answer: 3 choices, 5 days, so $3^5=\boxed{243}$
 2. Mr. Newton, tired of the same routine every day, decides to change up his freshman calculus class. Each day for the entire six weeks ($30$ school days), he will give his class anywhere from $0$ to $6$ "quick-quizzes." a) How many ways can he schedule this? b) Also, would this be a good idea?
    Answer: a) 7 options ($0$, $1$, $2$ ... $6$), 30 days so $\boxed{7^{30}}$ 
                   b) Yes, because more math is more fun!
@@ -166,7 +166,7 @@ This means that if you have $n$ items, and you want to have $k$ of them, where t
 
 Next, imagine that too many people ordered cones that are only chocolate and the store is starting to run out, so they say that you may not have more than one scoop of one flavor of ice cream. *Now how many ways are there to make a $k$-scoop ice cream cone from $n$ flavors?*
 
-We need to rethink our approach a bit. For the first scoop, there are $n$ choices. But now, after we take one scoop of that flavor, we can no longer use it anymore. Thus, the number of options we have for the second scoop is $n-1$. Now, since we have chosen two flavors already, we only have $n-2​$ flavors to choose for our third scoop. Continuing on, we see that there are
+We need to rethink our approach a bit. For the first scoop, there are $n$ choices. But now, after we take one scoop of that flavor, we can no longer use it anymore. Thus, the number of options we have for the second scoop is $n-1$. Now, since we have chosen two flavors already, we only have $n-2$ flavors to choose for our third scoop. Continuing on, we see that there are
 $$
 \begin{align}
 &\qquad n \times (n-1) \times (n-2) \times \cdots \times (n-k+1)\\\\
@@ -181,12 +181,12 @@ $$
 $$
 total outcomes.
 
-Make sure you see why this works. We denote this commonly as $n\ \textbf P\ k​$, which stands for $n​$ pick $k​$. This means that if you have $n​$ items, and you want to have $k​$ of them, where the **order of the items matters,** and **repeats are *not* allowed,** there are $\boxed{n\ \textbf P\ k = \frac{n!}{(n-k)!}}​$ possible outcomes.
+Make sure you see why this works. We denote this commonly as $n\ \textbf P\ k$, which stands for $n$ pick $k$. This means that if you have $n$ items, and you want to have $k$ of them, where the **order of the items matters,** and **repeats are *not* allowed,** there are $\boxed{n\ \textbf P\ k = \frac{n!}{(n-k)!}}$ possible outcomes.
 
 #### Simple example problems:
 
-1. Mr. Newton has $30​$ students. He wants to pick four different students to solve the warm-up problems. How many ways can he do this?
-   Answer: He wants to pick 4 students from all 30 students, so $30\ \textbf P\ 4 = \frac{30!}{26!} = 30\cdot29\cdot28\cdot27=\boxed{657720}​$.
+1. Mr. Newton has $30$ students. He wants to pick four different students to solve the warm-up problems. How many ways can he do this?
+   Answer: He wants to pick 4 students from all 30 students, so $30\ \textbf P\ 4 = \frac{30!}{26!} = 30\cdot29\cdot28\cdot27=\boxed{657720}$.
 2. Mr. Newton has 8 questions in his test bank, and he needs to pick 3 for today's quiz. How many ways can he do this?
    Answer: $8\ \textbf P\ 3 = \frac{8!}{5!} = 8*7*6 = \boxed{336}$.
 
@@ -207,11 +207,11 @@ After some more experimentation, we see that we are counting the case $A, B, C$ 
 1. $A, B, C$
 2. $A, C, B$
 3. $B, A, C$
-4. $B, C, A​$
+4. $B, C, A$
 5. $C, A, B$
-6. $C, B, A​$
+6. $C, B, A$
 
-The reason we count this case $6​$ times is that there are $6​$ ways to rearrange 3 different letters. So we can just divide out how many ways there are to rearrange $k​$ letters, which is just $k!​$. (If you don't see why there are $k!​$ ways of rearranging $k​$ elements, think of it as $k\ \textbf P\ k​$.)
+The reason we count this case $6$ times is that there are $6$ ways to rearrange 3 different letters. So we can just divide out how many ways there are to rearrange $k$ letters, which is just $k!$. (If you don't see why there are $k!$ ways of rearranging $k$ elements, think of it as $k\ \textbf P\ k$.)
 
 So now our answer is that there are $\dfrac{n\ \textbf P\ k}{k!} = \dfrac{n!}{k!\cdot(n-k)!}$ outcomes.
 
@@ -220,7 +220,7 @@ We denote this as $n\ \textbf C\ k$, or more commonly as $\dbinom nk$, which sta
 #### Simple example problems:
 
 1. Mr. Newton needs to choose 4 students for the Math team. He has 30 interested students. How many ways are there for him to select these 4 students, if the order in which the students are selected is unimportant?
-   Answer: $30\ \textbf C\ 4= \dfrac{30\cdot29\cdot28\cdot27}{4\cdot3\cdot2\cdot1}=\boxed{27405}​$.
+   Answer: $30\ \textbf C\ 4= \dfrac{30\cdot29\cdot28\cdot27}{4\cdot3\cdot2\cdot1}=\boxed{27405}$.
 2. Mr. Newton has 6 different vegan sandwiches in his refrigerator. He wants to take three of them for lunch. How many ways can he choose three of the sandwiches?
    Answer: $6\ \textbf C\ 3 = \frac{6!}{3!3!} = \frac{720}{36} = \boxed{20}$.
 
@@ -250,7 +250,7 @@ $$
 \underbrace {\rightarrow} _\text{Move to $E$} \quad
 \underbrace {\ *\ } _\text{Take $E$} \quad
 $$
-We see that we can represent any possible combination of flavors like this, as a permutation of $n - 1​$ arrows and $k​$ stars. We can then count the possible combinations of bowls by just counting how many ways we can arrange $n-1​$ arrows and $k​$ stars, which is just $\boxed{\dbinom{n+k-1}{n-1} = \dbinom{n+k-1}{k}}​$.
+We see that we can represent any possible combination of flavors like this, as a permutation of $n - 1$ arrows and $k$ stars. We can then count the possible combinations of bowls by just counting how many ways we can arrange $n-1$ arrows and $k$ stars, which is just $\boxed{\dbinom{n+k-1}{n-1} = \dbinom{n+k-1}{k}}$.
 
 #### Simple example problems:
 
@@ -376,13 +376,13 @@ $$
 
 1. Each diagonal has its two endpoints as vertices of the 100-gon. Each pair of vertices determines exactly one diagonal. Therefore the answer should be $\dbinom{100}2 = 4950$. However this also counts the $100$ sides of the polygon, so the actual answer is $4950-100=\boxed{\textbf{(B)}\ 4850}$.
 
-2. The probability of rolling at least a five on any one roll is $ \dfrac{2}{6}=\dfrac{1}{3} ​$. If there are exactly $ 5 ​$ fives or sixes rolled, there are $ \dbinom{6}{5}=6 ​$ ways to pick which of the rolls are the fives and sixes, and so the probability in this case is $ 6\left(\dfrac{1}{3}\right)^5\left(\dfrac{2}{3}\right)=\dfrac{12}{729} ​$. If there are exactly $ 6 ​$ fives or sixes rolled, then there is only one way to pick which of the rolls are fives and sixes, so the probability in this case is $ \left(\dfrac{1}{3}\right)^6=\dfrac{1}{729} ​$.
+2. The probability of rolling at least a five on any one roll is $ \dfrac{2}{6}=\dfrac{1}{3} $. If there are exactly $ 5 $ fives or sixes rolled, there are $ \dbinom{6}{5}=6 $ ways to pick which of the rolls are the fives and sixes, and so the probability in this case is $ 6\left(\dfrac{1}{3}\right)^5\left(\dfrac{2}{3}\right)=\dfrac{12}{729} $. If there are exactly $ 6 $ fives or sixes rolled, then there is only one way to pick which of the rolls are fives and sixes, so the probability in this case is $ \left(\dfrac{1}{3}\right)^6=\dfrac{1}{729} $.
 
-   Therefore, the total probability is $ \dfrac{12}{729}+\dfrac{1}{729}=\boxed{\textbf{(D)}\ \dfrac{13}{729}}​$.
+   Therefore, the total probability is $ \dfrac{12}{729}+\dfrac{1}{729}=\boxed{\textbf{(D)}\ \dfrac{13}{729}}$.
 
-3. Let Alice put a ball of color $C​$ in Bob's bag. For both bags to have the same contents, Bob must select one of the 2 $C​$-colored balls out of the 6 balls in his bag, meaning the answer is $\dfrac26=\boxed{\textbf{(D)}\ \dfrac13}​$.
+3. Let Alice put a ball of color $C$ in Bob's bag. For both bags to have the same contents, Bob must select one of the 2 $C$-colored balls out of the 6 balls in his bag, meaning the answer is $\dfrac26=\boxed{\textbf{(D)}\ \dfrac13}$.
 
-4. First, let's count the number of total telephone numbers. There are $8​$ choices for the first digit, and $10​$ for the remaining $6​$ digits, so the total number of telephone numbers is $8\cdot10^6​$. If we only look at telephone numbers that begin with $9​$ and end with $0​$, there is only $1​$ choice for both the first and last digit, and $10​$ for the other, so the number of telephone numbers fitting these conditions is $10^5​$. Thus, our answer is $\dfrac{10^5}{8\cdot10^6} = \boxed{\textbf{(B)}\ \dfrac1{80}}​$.
+4. First, let's count the number of total telephone numbers. There are $8$ choices for the first digit, and $10$ for the remaining $6$ digits, so the total number of telephone numbers is $8\cdot10^6$. If we only look at telephone numbers that begin with $9$ and end with $0$, there is only $1$ choice for both the first and last digit, and $10$ for the other, so the number of telephone numbers fitting these conditions is $10^5$. Thus, our answer is $\dfrac{10^5}{8\cdot10^6} = \boxed{\textbf{(B)}\ \dfrac1{80}}$.
 
 5. We first count the number of handshakes between men, which is $\dbinom{13}2 = 78 $, since for every combination of two people, there will be a handshake. Next, we count the number of handshakes between men and women, which is $13\cdot12= 156 $ (each man shakes hands with the 12 women he is not married to). Our answer is $78+156 = \boxed{\textbf{(C)}\ 234}$
 
