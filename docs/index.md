@@ -36,9 +36,9 @@ Announcements:
 - [Advanced AIME Problems Part 2](AdvancedAIMEProblemsPart2.pdf)
 
 ## Past AMCs
-- [2019 AMC 10A Packet](2019-10A.pdf)
-- [2019 AMC 10A Problems and Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10A_Problems)
-- [2019 AMC 10B Packet](2019-10B.pdf)
-- [2019 AMC 10B Problems and Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10B_Problems)
+- [2016 AMC 10A Packet](2016-10A.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10A_Problems))
+- [2016 AMC 10B Packet](2016-10B.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10B_Problems))
+- [2019 AMC 10A Packet](2019-10A.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10A_Problems))
+- [2019 AMC 10B Packet](2019-10B.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10B_Problems))
 - [2015 AIME II](2015-AIME-2.pdf)
 
