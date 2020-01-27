@@ -26,6 +26,7 @@ Announcements:
 - [Letter about preparing for the 2020 AMCs from the AMC club team](2020AMCLetter.pdf)
 - [Holiday Review 2019-2020](Holiday-Review-2019-2020.pdf)
 - [Cram Course 2020 Combinatorics](Cram-Course-2020-Combinatorics.pdf)
+- [Cram Course 2020 Geometry](Cram-Course-2020-Geometry.pdf)
 
 ## Problemsets
 
