@@ -1,14 +1,12 @@
 # Welcome to SEM's AMC Club!
 
-### Hosted by Arjun Vikram, Maanas Sharma, and Aneesh Sharma
+### Hosted by Arjun Vikram, with help from Maanas Sharma
 
 
 
 Announcements:
 
-- AMC club is now held in Mr. Barasch's room on Mondays after school
-- The AMC 10/12 A is on January 30th, and the AMC 10/12 B is on February 5th. Times and rooms TBA by Ms. Tan.
-- **We will be hosting 3 cram-sessions to prepare for the AMC, on the three Mondays before the exams!**
+- In light of the current COVID-19 pandemic, we will be holding AMC club virtually. More details on the platform of choice and how to access it will be forthcoming.
 
 
 ## Lesson notes
