@@ -11,7 +11,7 @@ Announcements:
 
 ## 2020-2021 Lessons
 
-- [Game Theory](Game-Theory.pdf)
+- [Game Theory](GameTheory.pdf)
 
 ## Old Lessons
 
