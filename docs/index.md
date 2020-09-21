@@ -9,7 +9,11 @@ Announcements:
 - In light of the current COVID-19 pandemic, we will be holding AMC club virtually. More details on the platform of choice and how to access it will be forthcoming.
 
 
-## Lesson notes
+## 2020-2021 Lessons
+
+- [Game Theory](Game-Theory.pdf)
+
+## Old Lessons
 
 - [Lesson 1 Notes](Week1.pdf)
 - [Lesson 2 Notes](Week2.pdf)
