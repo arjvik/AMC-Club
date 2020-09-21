@@ -159,6 +159,8 @@ Play the game a few times with a partner. Make sure you take turns playing first
 2. Write a general rule to determine whether a state is a winning state, for any value of $n$ and $k$.
 3. Can you determine if the first or second player will win?
 4. Briefly describe the optimal strategy.
+5. How is the game of Pawns (with $n=1$ and $k=8$) related to the game of Rooks? Can you form a bijection between the states of the two games?
+6. What happens when there are an odd number of pawns (say, $2n+1$)?
 
 ## AMC Game Theory Problem
 
