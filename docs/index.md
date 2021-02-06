@@ -1,4 +1,4 @@
-# Welcome to SEM's AMC Club!
+# Welcome to SEM's American Math Competition Club!
 
 ### Hosted by Arjun Vikram, with help from Maanas Sharma
 
@@ -6,7 +6,8 @@
 
 Announcements:
 
-- In light of the current COVID-19 pandemic, we will be holding AMC club virtually. More details on the platform of choice and how to access it will be forthcoming.
+- Best of luck for the 2021 AMC Testing season! Please contact us if you have any logistics questions.
+- If you haven't already, please join our Discord server for communication at https://discord.gg/Txm7sVs
 
 
 ## Lessons
@@ -20,10 +21,9 @@ Announcements:
 - [Algebraic Manipulations](AlgebraicManipulations.pdf)
 - [Game Theory](GameTheory.pdf)
 
-## 2020 AMC Preparation
+## AMC Reviews
 
-- [Letter about preparing for the 2020 AMCs from the AMC club team](2020AMCLetter.pdf)
-- [Holiday Review 2019-2020](Holiday-Review-2019-2020.pdf)
+- [Holiday Review Packet](Holiday-Review.pdf)
 - [Cram Course 2020 Combinatorics](Cram-Course-2020-Combinatorics.pdf)
 - [Cram Course 2020 Geometry](Cram-Course-2020-Geometry.pdf)
 

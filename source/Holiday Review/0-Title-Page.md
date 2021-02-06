@@ -1,4 +1,4 @@
-# AMC Club Holiday Review 2019-2020
+# AMC Club Holiday Review
 
 ## **Compiled by Arjun Vikram**
 

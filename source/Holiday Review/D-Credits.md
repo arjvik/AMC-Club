@@ -2,8 +2,6 @@
 
 Please contact Arjun Vikram if you have any questions about this problemset.
 
-If you do not already have my number, text me at [912-999-0219](tel:9129990219).
-
 ### Acknowledgements
 
 Problems compiled by Arjun Vikram from [SEM AMC Club](https://sem-amc-club.tk/)
@@ -24,4 +22,4 @@ It was inspired by his quote "Students, warm-up!".
 
 
 
-**Revision 2** - minor edits and typo fixes
+**Revision 3** - minor edits and typo fixes
