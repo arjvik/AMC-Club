@@ -1,6 +1,6 @@
 # AMC Club Combinatorics Cram Course
 
-### Arjun Vikram and Maanas Sharma, 2019
+### Arjun Vikram and Maanas Sharma
 
 ## 1. Laws of Counting
 

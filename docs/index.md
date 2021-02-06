@@ -24,8 +24,9 @@ Announcements:
 ## AMC Reviews
 
 - [Holiday Review Packet](Holiday-Review.pdf)
-- [Cram Course 2020 Combinatorics](Cram-Course-2020-Combinatorics.pdf)
-- [Cram Course 2020 Geometry](Cram-Course-2020-Geometry.pdf)
+- [Cram Course Combinatorics](Cram-Course-Combinatorics.pdf)
+- [Cram Course Geometry](Cram-Course-Geometry.pdf)
+- Cram Course Algebra (coming soon)
 
 ## Problemsets
 

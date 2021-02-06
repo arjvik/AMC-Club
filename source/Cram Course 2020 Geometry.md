@@ -1,6 +1,6 @@
 # AMC Club Geometry Cram Course
 
-### Arjun Vikram, 2019
+### Arjun Vikram
 
 <img src="http://chquotes.synthasite.com/resources/calv_test.gif" alt="Daily Comic" style="zoom:80%;" />
 
