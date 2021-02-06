@@ -9,19 +9,16 @@ Announcements:
 - In light of the current COVID-19 pandemic, we will be holding AMC club virtually. More details on the platform of choice and how to access it will be forthcoming.
 
 
-## 2020-2021 Lessons
+## Lessons
 
+- [Vieta's Formulas](VietasFormulas.pdf)
+- [Logic and Counting](LogicCombinatorics.pdf)
+- [Sequences and Series](SequencesSeries.pdf)
+- [Factoring Manipulations](FactoringManipulations.pdf)
+- [Principle of Inclusion and Exclusion (Part 1)](PIEPart1.pdf)
+- [Principle of Inclusion and Exclusion (Part 2)](PIEPart2.pdf)
+- [Algebraic Manipulations](AlgebraicManipulations.pdf)
 - [Game Theory](GameTheory.pdf)
-
-## Old Lessons
-
-- [Lesson 1 Notes](Week1.pdf)
-- [Lesson 2 Notes](Week2.pdf)
-- [Lesson 3 Notes](Week3.pdf)
-- [Lesson 4 Notes](Week4.pdf)
-- [Lesson 5 Notes](Week5.pdf)
-- [Lesson 6 Notes](Week6.pdf)
-- [Lesson 7 Notes](Week7.pdf)
 
 ## 2020 AMC Preparation
 
