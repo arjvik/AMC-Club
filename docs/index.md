@@ -43,3 +43,6 @@ Announcements:
 - [2019 AMC 10B Packet](2019-10B.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10B_Problems))
 - [2015 AIME II](2015-AIME-2.pdf)
 
+
+
+<a id="darkmode" href="javascript:void((document.body.style.backgroundColor='#111')+(window.darkmode.remove()))">Enable Kevin's secret dark mode</a>
