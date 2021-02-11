@@ -7,7 +7,7 @@
 Announcements:
 
 - Best of luck for the 2021 AMC Testing season! Please contact us if you have any logistics questions.
-- If you haven't already, please join our Discord server for communication at https://discord.gg/Txm7sVs
+- If you haven't already joined, please contact us to get the invitation to join our Discord server.
 
 
 ## Lessons
