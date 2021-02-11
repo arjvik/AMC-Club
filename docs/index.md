@@ -8,6 +8,7 @@ Announcements:
 
 - Best of luck for the 2021 AMC Testing season! Please contact us if you have any logistics questions.
 - If you haven't already joined, please contact us to get the invitation to join our Discord server.
+- If you would like to join SEM's AMC club but do not know how to contact us, contact Ms. Tan and ask her to help you get in touch with us.
 
 
 ## Lessons
