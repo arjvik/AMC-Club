@@ -2,7 +2,7 @@
 
 ### Hosted by Arjun Vikram, with help from Maanas Sharma
 
->  ### Announcements:
+>  <u>Announcements:</u>
 >
 > - SEM's AMC Club will meet after school in Mr. Barasch's room on Thursdays from 4:30-5:30. Students of all levels—AMC beginner to AIME veteran—are welcome!
 > - Please contact us if there are any topics you would like to see lessons on.
