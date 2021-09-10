@@ -2,15 +2,13 @@
 
 ### Hosted by Arjun Vikram, with help from Maanas Sharma
 
-
-
-Announcements:
-
-- SEM's AMC Club will meet after school in Mr. Barasch's room on Thursdays from 4:30-5:30. Students of all levels—AMC beginner to AIME veteran—are welcome!
-- Please contact us if there are any topics you would like to see lessons on.
-- This year's AMC 10/12 A is on **November 10th, 2021**, and the AMC 10/12 B is on **November 16th, 2021**. More logistics information coming soon.
-- PDF versions of past exams (prepared using our own [`prepamc`](https://github.com/arjvik/prepamc) tool) have been compiled below. Copyright to the material remains with MAA.
-- Best of luck for the 2021-2022 competition season!
+>  ### Announcements:
+>
+> - SEM's AMC Club will meet after school in Mr. Barasch's room on Thursdays from 4:30-5:30. Students of all levels—AMC beginner to AIME veteran—are welcome!
+> - Please contact us if there are any topics you would like to see lessons on.
+> - This year's AMC 10/12 A is on **November 10th, 2021**, and the AMC 10/12 B is on **November 16th, 2021**. More logistics information coming soon.
+> - PDF versions of past exams (prepared using our own [`prepamc`](https://github.com/arjvik/prepamc) tool) have been compiled below. Copyright to the material remains with MAA.
+> - Best of luck for the 2021-2022 competition season!
 
 
 ## Lessons
@@ -40,6 +38,10 @@ Announcements:
 - [Advanced AIME Problems Part 2](AdvancedAIMEProblemsPart2.pdf)
 
 ## Past AMCs
+
+| [2021 AMC 10A](Exams/2021-AMC-10A.pdf) (and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_10A_Problems)) | [2021 AMC 10B](Exams/2021-AMC-10B.pdf) (and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_10B_Problems)) | [2021 AMC 12A](Exams/2021-AMC-12A.pdf) (and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_12A_Problems)) | [2021 AMC 12B](Exams/2021-AMC-12A.pdf) (and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_12B_Problems)) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 - [2016 AMC 10A Packet](2016-10A.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10A_Problems))
 - [2016 AMC 10B Packet](2016-10B.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10B_Problems))
 - [2019 AMC 10A Packet](2019-10A.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10A_Problems))
