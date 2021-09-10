@@ -41,6 +41,7 @@
 
 | [2021 AMC 10A](Exams/2021-AMC-10A.pdf) (and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_10A_Problems)) | [2021 AMC 10B](Exams/2021-AMC-10B.pdf) (and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_10B_Problems)) | [2021 AMC 12A](Exams/2021-AMC-12A.pdf) (and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_12A_Problems)) | [2021 AMC 12B](Exams/2021-AMC-12A.pdf) (and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_12B_Problems)) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |                                                              |
 
 - [2016 AMC 10A Packet](2016-10A.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10A_Problems))
 - [2016 AMC 10B Packet](2016-10B.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10B_Problems))
