@@ -1,6 +1,6 @@
 # Welcome to SEM's American Math Competition Club!
 
-### Hosted by Arjun Vikram, with help from Maanas Sharma
+### Hosted by Arjun Vikram and Maanas Sharma
 
 >  <u>Announcements:</u>
 >
