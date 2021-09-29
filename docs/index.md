@@ -42,12 +42,11 @@
 | [2021 AMC 10A](Exams/2021-AMC-10A.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_10A_Problems)) | [2021 AMC 10B](Exams/2021-AMC-10B.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_10B_Problems)) | [2021 AMC 12A](Exams/2021-AMC-12A.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_12A_Problems)) | [2021 AMC 12B](Exams/2021-AMC-12B.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2021_AMC_12B_Problems)) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [2020 AMC 10A](Exams/2020-AMC-10A.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2020_AMC_10A_Problems)) | [2020 AMC 10B](Exams/2020-AMC-10B.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2020_AMC_10B_Problems)) | [2020 AMC 12A](Exams/2020-AMC-12A.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2020_AMC_12A_Problems)) | [2020 AMC 12B](Exams/2020-AMC-12B.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2020_AMC_12B_Problems)) |
+| [2019 AMC 10A](Exams/2019-AMC-10A.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10A_Problems)) | [2019 AMC 10B](Exams/2019-AMC-10B.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10B_Problems)) | [2019 AMC 12A](Exams/2019-AMC-12A.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_12A_Problems)) | [2019 AMC 12B](Exams/2019-AMC-12B.pdf)<br />(and [Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_12B_Problems)) |
 
-- [2016 AMC 10A Packet](2016-10A.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10A_Problems))
-- [2016 AMC 10B Packet](2016-10B.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10B_Problems))
-- [2019 AMC 10A Packet](2019-10A.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10A_Problems))
-- [2019 AMC 10B Packet](2019-10B.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2019_AMC_10B_Problems))
-- [2015 AIME II](2015-AIME-2.pdf)
+- [2016 AMC 10A](2016-10A.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10A_Problems))
+- [2016 AMC 10B](2016-10B.pdf) ([Solutions](https://artofproblemsolving.com/wiki/index.php/2016_AMC_10B_Problems))
+- [2015 AIME II Packet](2015-AIME-2.pdf)
 
 
 
