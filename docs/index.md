@@ -6,7 +6,7 @@
 >
 > - SEM's AMC Club will meet after school in Mr. Barasch's room on Thursdays from 4:30-5:30. Students of all levels—AMC beginner to AIME veteran—are welcome!
 > - Please contact us if there are any topics you would like to see lessons on.
-> - This year's AMC 10/12 A is on **November 10th, 2021**, and the AMC 10/12 B is on **November 16th, 2021**. More logistics information coming soon.
+> - This year's AMC 10/12 A is on **November 10th, 2021**, and the AMC 10/12 B is on **November 16th, 2021**. Meet in Mr. Florczak's room (230) at 3:50 for both administrations.
 > - PDF versions of past exams (prepared using our own [`prepamc`](https://github.com/arjvik/prepamc) tool) have been compiled below. Copyright to the material remains with MAA.
 > - Best of luck for the 2021-2022 competition season!
 
