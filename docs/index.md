@@ -21,6 +21,7 @@
 - [Principle of Inclusion and Exclusion (Part 2)](PIEPart2.pdf)
 - [Algebraic Manipulations](AlgebraicManipulations.pdf)
 - [Game Theory](GameTheory.pdf)
+- [Supergames](Supergames.pdf)
 
 ## AMC Reviews
 
