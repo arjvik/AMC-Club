@@ -1,4 +1,4 @@
-# AMC-Club: https://sem-amc-club.tk/
+# AMC-Club: https://semamc.club/
 This is the repository for the website and notes of the AMC 10/12 preparation club hosted by Arjun Vikram, Maanas Sharma, and Aneesh Sharma at SEM.
 
 If you are looking for the website of AMC Club (for notes packets, etc), please click the link above.
